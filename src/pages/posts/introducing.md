@@ -1,7 +1,7 @@
 ---
 title: "All aboard"
 description: "We're excited to announce Astro as a new way to build static websites and deliver lightning-fast performance without sacrificing a modern developer experience."
-pubDate: "2021-06-08"
+pubDate: "2023-09-16"
 hero: "/images/first-post/hero.jpg"
 tags: ["Travel", "Welcome"]
 layout: "../../layouts/BlogPostLayout.astro"
