@@ -11,7 +11,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ## Introduction
 
-All my life, I've harbored a deep fascination for the wonders of Europe - its rich history, diverse cultures, and breathtaking landscapes. While many dream of exploring the Old Continent by air, I've always yearned for a more intimate, ground-level experience. That's why I am about to embark on a remarkable adventure - an Interrail journey across Europe. My blog will serve as a testament to the incredible rail odyssey that will take me to Hamburg, Krakow, Budapest, Bologna, Sicily, Tirano, and the enchanting Black Forest. Join me as I look forward to sharing not just my destinations but the stories, reasons, and experiences that drive my passion for rail travel.
+All my life, I've harbored a deep fascination for the wonders of Europe - its rich history, diverse cultures, and breathtaking landscapes. While many dream of exploring the Old Continent by air, I've always yearned for a more intimate, ground-level experience. That's why I am about to embark on a remarkable adventure - an Interrail journey across Europe. My blog will serve as a testament to the incredible rail odyssey that will take me to Hamburg, Kraków, Budapest, Bologna, Sicily, Tirano, and the enchanting Black Forest. Join me as I look forward to sharing not just my destinations but the stories, reasons, and experiences that drive my passion for rail travel.
 
 ## The Beginnings of My Interrail Adventure
 
@@ -35,17 +35,17 @@ My upcoming Interrail journey will take me to seven incredible destinations, eac
 
 - **Hamburg**: Known for its vibrant port, historic architecture, and lively cultural scene, Hamburg will be the perfect starting point for my adventure.
 
-- **Krakow**: Steeped in history, Krakow's Old Town and the nearby Auschwitz-Birkenau Memorial promise to be both moving and enlightening experiences.
+- **Kraków**: Steeped in history, Kraków's Old Town and the nearby Auschwitz-Birkenau Memorial promise to be both moving and enlightening experiences.
 
 - **Budapest**: The stunning architecture, thermal baths, and vibrant nightlife of Hungary's capital are sure to leave a lasting impression.
 
 - **Bologna**: Home to delectable Italian cuisine and beautiful medieval architecture, Bologna will be a food lover's paradise.
 
-- **Sicily**: Exploring the ancient ruins of Agrigento and the charming town of Taormina on this island will be like stepping back in time.
+- **Sicily**: In Sicily, the train travels on a boat to reach mainland Italy, offering a unique experience. The sleeper train from Palermo to Milano adds an enchanting touch, allowing me to sleep while admiring Italy's scenic landscapes.
 
 - **Tirano**: A picturesque town in the Italian Alps, Tirano will serve as the gateway to the breathtaking Bernina Express route through the Swiss Alps.
 
-- **The Black Forest**: My journey will conclude in the mystical Black Forest of Germany, where I will hike through dense woodlands, taste Black Forest cake, and enjoy the tranquility of nature.
+- **The Black Forest**: My journey will conclude in the mystical Black Forest of Germany, where I will taste Black Forest cake, and enjoy the tranquility of nature.
 
 ## Final Thoughts
 
