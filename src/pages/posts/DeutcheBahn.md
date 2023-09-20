@@ -48,7 +48,7 @@ The next day was dedicated to exploring the city. We began at the old harbor of 
 
 ### Conclusion
 
-Our journey to Hamburg, though fraught with delays and unforeseen complications, turned out to be an adventure we will always remember. From navigating unexpected train route changes to exploring the rich history of Hamburg and losing ourselves in the intricate world of Miniatur Wunderland, every moment added a unique chapter to our travel story. As we boarded the S-Bahn to head back to our hotel, we couldn't help but look forward to our next destination – Krakow, where new adventures awaited. Travel isn't always smooth, but it's the unexpected twists and turns that often make it the most memorable.
+Our journey to Hamburg, though fraught with delays and unforeseen complications, turned out to be an adventure we will always remember. From navigating unexpected train route changes to exploring the rich history of Hamburg and losing ourselves in the intricate world of Miniatur Wunderland, every moment added a unique chapter to our travel story. As we boarded the S-Bahn to head back to our hotel, we couldn't help but look forward to our next destination – Kraków, where new adventures awaited. Travel isn't always smooth, but it's the unexpected twists and turns that often make it the most memorable.
 
 
 
