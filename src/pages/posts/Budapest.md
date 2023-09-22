@@ -55,3 +55,5 @@ Later, we explored Budapest Keleti station and observed the fascinating activity
 ### Conclusion
 
 As we concluded our exploration of Budapest, we couldn't help but look forward to the next part of our journey—a journey that would bring its own set of challenges and surprises. Stay tuned for the next post, where we share our adventures and luxurious of traveling Business class on our way to Bologne!
+
+> From now on the post will be more frequent since I am not visiting any cities but more discovering services and enjoying landscapes from the train!
