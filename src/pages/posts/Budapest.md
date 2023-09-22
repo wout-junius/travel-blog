@@ -12,7 +12,7 @@ layout: "../../layouts/BlogPostLayout.astro"
 
 ### Introduction
 
-Embarking on yet another adventure, we found ourselves filled with anticipation as we prepared to leave Kraków for the enchanting city of Budapest. This time, our schedule allowed for a bit more rest, as our Euro City train was set to depart from Kraków Główny station at the leisurely hour of 10:40 AM. Little did we know that this leg of our journey would be marked by unexpected twists and newfound friendships.
+Embarking on yet another adventure, we found ourselves filled with anticipation as we prepared to leave Kraków for the enchanting city of Budapest. This time, our schedule allowed for a bit more rest, as our Euro City train was set to depart from Kraków Główny station at the leisurely hour of 10:40 AM. Unbeknownst to us this leg of our journey would be marked by unexpected twists and newfound friendships.
 
 ![PKP train](/images/Budapest/pkp_train.jpg)
 
