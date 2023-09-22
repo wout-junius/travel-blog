@@ -1,7 +1,7 @@
 ---
 title: "Budapest: old and beautiful"
 description: "Our adventure continues to Budapest discover how we managed to get there and how it was visiting."
-pubDate: "2023-09-20"
+pubDate: "2023-09-22"
 hero: "/images/Budapest/hero.jpg"
 tags: ["Travel", "Welcome"]
 layout: "../../layouts/BlogPostLayout.astro"
