@@ -3,3 +3,9 @@
 @import "./content";
 @import "./site";
 @import "./custom";
+
+
+article > section > p > img {
+  border-radius: 0.75rem !important;
+}
+
